@@ -5,9 +5,9 @@ Passionate about **Data Engineering** and mastering **Big Data** and **Cloud Tec
 ### 🛠️ Technologies I've worked with:
 - **Programming Languages**: Python, SQL, C, Java
 - **Data Analytics**: PowerBI, Tableau, Excel
-- **Machine Learning **: TensorFlow, Keras, Scikit-learn, Deep Learning
+- **Machine Learning**: TensorFlow, Keras, Scikit-learn, Deep Learning
 - **MERN Full Stack**: HTML, CSS, JS, Express, Node, React
-- **AI**:NLP, GenAI, CV
+- **AI**: NLP, GenAI, CV
 - **Databases**: MySQL, MongoDB
 
 ### 🔭 Technologies I’m currently exploring:
