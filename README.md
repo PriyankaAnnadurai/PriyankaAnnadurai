@@ -1,6 +1,6 @@
 # Hi👋, I'm Priyanka!
 
-## Passionate about building scalable data pipelines and mastering Big Data and Cloud Technologies.
+Passionate about **Data Engineering** and mastering **Big Data** and **Cloud Technologies**.
 
 ### 🛠️ Technologies I've worked with:
 - **Programming Languages**: Python, SQL, C, Java
