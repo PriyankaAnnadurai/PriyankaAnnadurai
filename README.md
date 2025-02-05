@@ -54,7 +54,7 @@ Passionate about **Data Engineering** and mastering **Cloud Technologies**.
 
 ### LeetCode Status
 
-![ Stats](https://leetcode-status.vercel.app/api/card/PriyankaAnnadurai?theme=transparent&hide_title=true&custom_title=)
+![LeetCode Stats](https://leetcard.jacoblin.cool/PriyankaAnnadurai?theme=dark&font=Noto%20Sans%20Old%20Italic)
 
 ### Github Stats
 
