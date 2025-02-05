@@ -32,9 +32,6 @@ Passionate about **Data Engineering** and mastering **Cloud Technologies**.
 
 
 ### 🔭 Technologies I’m currently exploring:
-- **Data Engineering**:
-
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/scala.png" alt="Scala" title="Scala"/></code>
 
 - **Big Data**:
 
@@ -54,7 +51,13 @@ Passionate about **Data Engineering** and mastering **Cloud Technologies**.
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
     <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code> 
       
-- **Real-time data streaming**:
 
-    <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/></code>
+### LeetCode Status
 
+![ Stats](https://leetcode-status.vercel.app/api/card/PriyankaAnnadurai?theme=transparent&hide_title=true&custom_title=)
+
+### Github Stats
+
+![PriyankaAnnadurai's Stats](https://github-readme-stats.vercel.app/api?username=PriyankaAnnadurai&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+
+![PriyankaAnnadurai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaAnnadurai&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
